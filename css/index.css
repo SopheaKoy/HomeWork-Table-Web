@@ -1,0 +1,58 @@
+    .id {
+        background-color: blueviolet;
+        color: aliceblue;
+    }
+    
+    table {
+        width: 70%;
+    }
+    
+    table,
+    tr,
+    th,
+    td {
+        border: 2px solid black;
+        padding: 15px;
+        border-collapse: collapse;
+    }
+    
+    th {
+        height: 80px;
+        color: lavender;
+        background-color: blueviolet;
+    }
+    
+    tr {
+        text-align: center;
+        color: blueviolet;
+        font-weight: bold;
+    }
+    
+    .idth {
+        background-color: gainsboro;
+    }
+    
+    td {
+        width: 100px;
+        height: 80px;
+    }
+    
+    .date {
+        background-color: #ffb006;
+        color: white;
+    }
+    
+    .icon {
+        background-image: url(../image/heart.png);
+    }
+    
+    .day {
+        background-image: url(../image/shutterstock_658847998.jpg);
+        background-size: cover;
+    }
+    
+    .football {
+        color: white;
+        background-image: url(../image/skysports-man-utd-manchester-united_6071136.jpg);
+        background-size: cover;
+    }
